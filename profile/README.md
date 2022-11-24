@@ -1,4 +1,4 @@
-# Rust@Wellcome <img src="./rust-logo.png" style="height: 1em"/>
+# <img src="./rust-logo.png" style="height: 1em; vertical-align: middle"/> Rust@Wellcome
 
 ## Mission
 
